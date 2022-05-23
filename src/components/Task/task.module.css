@@ -1,0 +1,13 @@
+.task {
+  /* Sample  */
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  width: 400px;
+ 
+}
+.striked{
+  text-decoration: line-through;
+}
